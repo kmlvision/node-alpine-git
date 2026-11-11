@@ -1,5 +1,5 @@
 FROM node:lts-alpine
-LABEL MAINTAINER="KML VISION, devops@kmlvision.com"
+LABEL MAINTAINER="KOLAIDO, devops@kolaido.com"
 
 RUN apk update && \
     apk upgrade && \
